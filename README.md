@@ -1,4 +1,3 @@
-https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif
 ### 💫 About Me:
 ✋¡Hola! Me llamo Tomás. <br>Actualmente me encuentro estudiando la Carrera de Data Scientist en CoderHouse.<br><br>🎯 Tengo como objetivo encontrar mi primer empleo en el mundo de IT, específicamente como Data Scientist, ya sea como Junior o Trainee.<br><br>🤓 Hoy por hoy cuento con conocimientos en las siguientes tecnologías:<br>- Python (Jupyter, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn).<br>- SQL (Server).<br>- Power BI.<br>- Excel.
 

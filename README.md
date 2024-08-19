@@ -1,5 +1,5 @@
 ### 💫 About Me:
-✋¡Hola! Me llamo Tomás. <br>Termine la Carrera de Data Scientist en CoderHouse en Diciembre de 2023.<br><br>🎯 Tengo como objetivo encontrar mi primer empleo en el mundo de IT, específicamente como Data Scientist, ya sea como Junior o Trainee.<br><br>🤓 Hoy por hoy cuento con conocimientos en las siguientes tecnologías:<br>- Python (Jupyter, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn).<br>- SQL (Server).<br>- Power BI.<br>- Excel.
+✋¡Hola! Me llamo Tomás Martínez. <br>Termine la Carrera de Data Scientist en CoderHouse en Diciembre de 2023.<br><br>🎯 Tengo como objetivo encontrar mi primer empleo en el mundo de IT, específicamente como Data Scientist, ya sea como Junior o Trainee.<br><br>🤓 Hoy por hoy cuento con conocimientos en las siguientes tecnologías:<br>- Python (Jupyter, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn).<br>- SQL (Server).<br>- Power BI.<br>- Excel.
 
 
 ## 🌐 Socials:
